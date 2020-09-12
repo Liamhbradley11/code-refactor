@@ -17,5 +17,5 @@ To make the codebase more consise and consolidate to make it cleaner and easier 
 * CSS
 
 ### **Author**
-*Liam Bradley
+* Liam Bradley
 
